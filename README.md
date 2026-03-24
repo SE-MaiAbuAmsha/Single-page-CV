@@ -1,6 +1,14 @@
-# Single-page-CV
+# Single-Page CV
+
+## Project Page URL
+**https://se-maiabuamsha.github.io/Single-page-CV/**
+
+---
+
 ## 🔗 Live Demo
-🌐 (https://se-maiabuamsha.github.io/Single-page-CV/)
+Click here: [https://se-maiabuamsha.github.io/Single-page-CV/](https://se-maiabuamsha.github.io/Single-page-CV/)
+
+---
 ## 📋 Project Description
 This is a simple, single-page CV built using only HTML. The project focuses on creating a structured and semantic layout for a Curriculum Vitae, including sections for education, skills, and work experience. Styling will be added in a future project.
 
