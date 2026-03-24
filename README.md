@@ -24,4 +24,4 @@ This is a simple, single-page CV built using only HTML. The project focuses on c
 ## 🛠️ Technologies Used
 - HTML5
 ## 🔗 Live Demo
-🔴 **[View My CV Online](https://se-maiabuamsha.github.io/Single-page-CV/)**
+🔴 **[URL](https://se-maiabuamsha.github.io/Single-page-CV/)**
