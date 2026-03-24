@@ -1,4 +1,6 @@
 # Single-page-CV
+## 🔗 Live Demo
+🌐 **[View My CV Online](https://se-maiabuamsha.github.io/Single-page-CV/)**
 ## 📋 Project Description
 This is a simple, single-page CV built using only HTML. The project focuses on creating a structured and semantic layout for a Curriculum Vitae, including sections for education, skills, and work experience. Styling will be added in a future project.
 
